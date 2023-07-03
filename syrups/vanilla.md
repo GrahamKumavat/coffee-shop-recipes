@@ -25,3 +25,6 @@
 ### Step 4
 
 - Store syrup in an airtight container for up to two weeks.
+
+#### Step 5
+Add the container to the water to lower the temperature
