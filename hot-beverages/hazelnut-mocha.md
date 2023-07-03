@@ -16,6 +16,7 @@
 
 - Pour hazelnut syrup into a mug and add brewed Mocha Flavored Coffee. Stir. Optional: Add chocolate syrup to the bottom of your mug for a little treat and richer flavor.
 
+
 ### Step 2
 
 - Froth milk and pour over the coffee.
@@ -23,3 +24,6 @@
 ### Step 3
 
 - Top with whipped cream and drizzle with chocolate syrup.
+
+### Step 4
+Blend till the there is no thick mocha residue in the milke
